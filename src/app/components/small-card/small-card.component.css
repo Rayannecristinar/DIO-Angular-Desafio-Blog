@@ -1,0 +1,26 @@
+.cointaner_small-card{
+    width: 800px;
+    margin-bottom: 15px;
+
+}
+
+.cointaner_small-card-content{
+    display: flex;
+    flex-direction: row;
+}
+
+.small-card__photo > img {
+    width: 300px;
+    min-width: 300px;
+    margin-right: 20px;
+}
+
+.small-card__title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cointaner_small-card-separator{
+    margin-top: 10px;
+}
